@@ -1,0 +1,210 @@
+ALN 99332	Right , well thank you very much Mr .
+ALN 99333	Does Area Team Organization #Make a Difference ?
+ALN 99334	ROGER FULLER and ALISON PETCH
+ALN 99335	Roger Fuller has #held research posts in universities , a local authority and the National Children 's Bureau .
+ALN 99336	Alison Petch has undertaken research #in a #range of social policy #areas , #in both local authority and university #settings .
+ALN 99337	They are currently at the Social Work Research Centre ( SWRC ) , University of Stirling , which is jointly funded by the Economic and Social Research Council and the Scottish Office .
+ALN 99338	SUMMARY
+ALN 99339	The #paper #describes early #stages of a programme of research #designed to #investigate the effects of different #ways of organizing social work teams .
+ALN 99340	Initially #conceived as an attempt to study the relative effectiveness of specialist and generic team organization , the #focus has been #broadened to #encompass a #range of #wider and sometimes #cross - #cutting organizational variables .
+ALN 99341	After a brief review of attempts to specify organizational characteristics and of the methodological problems they #pose #to the researcher , a preliminary study is reported .
+ALN 99342	#This compared services #to the elderly #delivered by teams exemplifying some of the more #prominent organizational types .
+ALN 99343	The study tentatively identifies a number of factors which distinguished between teams #in social work activities and #in rudimentary #measures of client outcome .
+ALN 99344	The #dimensions of further work which would #fill #out these #early findings and #explore further organizational effects are #sketched .
+ALN 99345	Few would dispute the diversity manifest #in the organization of social services #delivery , both #amongst area teams ( Challis and Ferlie , 1987 ) and #at secondary #level ( Challis and Ferlie , 1986 ) .
+ALN 99346	Yet #this considerable variation #in organizational #model appears to #arouse remarkably #little interest #in its consequences .
+ALN 99347	The initial ( naïve ) enthusiasm of the researcher #with a new #line of enquiry is #greeted #with a seeming #conspiracy of silence .
+ALN 99348	Perhaps to some extent #this represents a legacy #from Seebohm , a queasiness #at what may be inaccurately #interpreted as a #retreat #from the generic ideal .
+ALN 99349	Perhaps it is an acknowledgement of the genuine complexity of the issue , likely to be #deepened by the uncertain #light #cast #on the future of the area team by the Griffiths recommendations ( Griffiths , 1988 ) for the development of the case - manager #role and other significant changes #in service #delivery .
+ALN 99350	Perhaps , more cynically , it #reflects a weariness #on the #part of #those subject #to multiple restructurings #on the apparent whim of new management .
+ALN 99351	The initial interest of the Social Work Research Centre was #in the desirability and feasibility of comparing the effectiveness of generic and specialist modes of organization .
+ALN 99352	#Early conceptual clarification ( Petch , 1987 ) #confirmed both #greater diversity than the simple dichotomy and the presence of alternative #dimensions , for example decentralization and accountability , which both #parallel and #cross - #cut the organizational debate .
+ALN 99353	#In this #paper we #trace the main contributions #to the debate and then present the results #from a first attempt , #with one client group ( the elderly ) and #with a #small number of teams ( four ) , to pin - point differential outcomes #amongst the most #prominent #models of area team organization .
+ALN 99354	The literature #in #this #area is fragmentary and tends either to be definitional or descriptive .
+ALN 99355	#In the #wake of the Seebohm Report ( 1968 ) there was #extended debate both of potential definitions of specialist and generic and of the specific #interpretations which were intended by the Report .
+ALN 99356	More recently , there have been a number of attempts to #capture and characterize the #patterns that are actually #emerging #in departmental organizations .
+ALN 99357	There is also the recurrent debate #over the #degree of specialization that should be #incorporated #in social work education .
+ALN 99358	The semantics of what was originally #conceived as a specialist - generic debate have been #explored in particular by Vickery ( 1973 ) and by Hey ( 1979 ) .
+ALN 99359	Vickery #points #to the distinction #between a generic training or a generic profession and the notion that the individual worker should be generic , #suggesting that ‘ the concept of the generic #in social work is probably only valid #at a fairly #high #level of abstraction’(p . 262 ) .
+ALN 99360	The #interpretation intended by Seebohm remains uncertain and as #with much legislative debate it may be less than profitable to #seek exactitude #in a vague formulation .
+ALN 99361	Many agree however that to #maintain that the Report #argued for a single worker appropriate #to all situations is false , and would endorse Hey #in her suggestion that generalist , even general purpose , may be the more appropriate term for the individual the Committee envisaged .
+ALN 99362	#At the opposite #end of the spectrum , there were problems also #in the definition of specialization .
+ALN 99363	Hey ( 1979 ) suggests that Seebohm #employed a variety of understandings , #shifting #from concentration #on #closely defined function #to notions of distinctive competence .
+ALN 99364	Vickery ( 1973 ) argues that it is only the latter , #based #on knowledge and skills that are #at an advanced #level rather than merely different , that should qualify as specialization .
+ALN 99365	Hey , #in reviewing the nine recommendations by Seebohm relating #to the organization of workers and #to specialization , concludes that three elements are critical — the kind of work , the #branch of work and the #level of work .
+ALN 99366	Despite the definitional problems , some would argue that some #form of specialization is an inevitable feature of organizational development .
+ALN 99367	For professions #in a complex society , the question becomes not whether to specialize internally but how to co - ordinate #these specialities #into a comprehensive whole ( Leighninger , 1980 , p. 2 ) .
+ALN 99368	The challenge is #seen as identifying the optimum #level of specialization before alleged dysfunctions of fragmentation and introversion emerge .
+ALN 99369	Both for the UK ( Stevenson , 1968 ) and for the US ( Leighninger , 1980 ) the evolution of the generic - specialist debate #in the context of professional development has been #traced .
+ALN 99370	The need for a common #base is presented and Leighninger #highlights in particular two recent #models of integration , the skills generalist #with a common #repertoire of concepts , skills , tasks , and activities , and the knowledge generalist #with a cohesive #core of common knowledge .
+ALN 99371	Any consideration of the knowledge and skills debate almost inevitably #leads #to attempts to clarify the #nature of the social work task itself ( Gordon and Schutz , 1977 ; Gross et al . ,
+ALN 99373	It may be more profitable however to #resist such diversion and to retain the #focus #on #this distinction #between knowledge and skills .
+ALN 99374	Hey ( 1976 ) for example examines the practice of specialists ( by client group ) and concludes that what many cite as their distinctive attribute is the element of knowledge .
+ALN 99375	She identifies five types of knowledge which she #found common #to different specialisms , #including knowledge of legislation , of statutory and departmental policy and procedure , of statutory and voluntary resources , of #patterns or #syndromes specific #to the group , and , where work was multi - disciplinary , of the value systems and work processes of the other occupational groups .
+ALN 99376	By contrast , particular skills tend only to be identified by those who have specialized by method of intervention ( for example , marital counselling ) or by client sub - group ( for example , fostering and adoption ) .
+ALN 99377	#This distinction #appears potentially important and one which in turn #generates other questions .
+ALN 99378	Does the worker #embark #on a specialism having already #acquired particular knowledge and/or skills ( and if so how ) , or is there an #assumption that by specializing #this knowledge and/or skills may be attained ?
+ALN 99379	An imaginative #range of possibilities for specialization have been mooted , varying #from the client system ( for example , individual , family group , community ) or the type of problem ( for example , delinquency , bereavement , addiction ) #to the change objectives ( for example , social rehabilitation , behavioural change , motivation ) , #level of intervention ( for example , psychotherapy , information #giving , education ) or specific treatment method ( Vickery , 1973 ; Cypher , 1980 ) .
+ALN 99380	#In practice however only specialization by client group has become an established #model , although increasingly there may be some evidence of a diversity of specialisms being #adopted #within client groups , most particularly #within child care .
+ALN 99381	More importantly , however , the #model alone is not sufficient , for it must be #placed #in the context both of the individual social work team and of the local authority department as a whole ( Hill , 1980 ) .
+ALN 99382	Most specifically , which types of specialist #focus #demand a particular team #structure ; which alternatives can function #on both an individual and #on a team basis ?
+ALN 99383	Furthermore , how should the particular configuration of , for example , the community social work team ( promoted by one of its main advocates as ‘ true genericism’,(Jordan , 1982 ) ) or the intake team ( Gostick and Scott , 1982 ) be #encompassed ?
+ALN 99384	#Those who have attempted empirical #mapping of the prevalence of different organizational types ( Challis and Ferlie , 1986 , 1987 ; Cypher , 1980 ; Howe , 1980 , 1986 ) have #charted the increasing emergence of a process of specialization , characterized by Cypher as ‘ specialization by #stealth ’ , and often #accompanied by some hierarchical classification of both client and worker .
+ALN 99385	#This #mapping is by definition descriptive #in #character and as such unconcerned #with the effects of the different organizational types it #reveals .
+ALN 99386	The intention of the comparative research by Black et al .
+ALN 99387	( 1983 ) to examine how social work #delivery should best be organized ( particularly in rural areas ) #held more promise #in #this respect , but #in the event the argument becomes somewhat #diffuse , the rural - urban dichotomy apparently not validated and the status of various organizational differences uncertain .
+ALN 99388	Indeed they argue that differences #between teams are neither evident nor important .
+ALN 99389	Nonetheless there are important reminders that any study of team #level effects should not be #divorced #from considerations of the #broader political and organizational context .
+ALN 99390	A more useful , albeit theoretical , contribution is #made by Challis and Ferlie ( 1987 ) when they #ground their discussion of the various organizational developments #in an examination of different criteria of efficiency , arguing that ‘ the attempt to #disentangle the arguments for various alternative #approaches #to traditional generic practice #into their expected contributions #to different aspects of efficiency provides an agenda for #valuable research’(1987 , p. 165 ) .
+ALN 99391	#In seeking to contribute #to #this research agenda we need to #address a number of issues which emerge both #from #this earlier literature and #from some initial observation #in a number of social work teams organized #in differing #ways .
+ALN 99392	How , for example , is an organizational type to be defined and how many are to be selected ?
+ALN 99393	Is the area team to be the #focus or is organization #at secondary #level to be #addressed ?
+ALN 99394	Are we to concur #with Stevenson 's conclusion ( 1981 ) that ‘ it is #hard to #see how we can #escape in general #in organization of service #from the #broad client groupings , now so #deeply entrenched #in social service provision and #in the #linkages which are required #with other professions’(p . 100 ) , and if so how are we to select client group(s ) ?
+ALN 99395	#From whose perspective are we interested #in the problem ?
+ALN 99396	Our primary concern above #dictates the inclusion of certain client outcome #measures #across the organizational types , but are we interested also #in outcomes as perceived by the client , the worker , by management or by other agencies ?
+ALN 99397	More specifically , what should be the specific outcome #measures that are selected and #to what extent should they represent ‘ final ’ outcomes or more intermediate #measures that may signify process ?
+ALN 99398	#Central #to the whole debate , however , it should be borne #in mind that in order to differentiate #between different organizational types it would be necessary to #demonstrate , firstly , that workers #in different #models behave differently and secondly , that #this differential behaviour #has an effect .
+ALN 99399	Initially , the three key research questions are therefore :
+ALN 99400	Do individual social workers work #in different #ways #in teams of different organizational types ?
+ALN 99401	Do any differences #in #ways of working #arise #from the organizational differences ?
+ALN 99402	Do any differences #in #ways of working #have an effect #on outcomes for clients in terms of services #delivered and hence effectiveness ?
+ALN 99403	#In seeking to explore the effects of different organizational types , a particular concern must be to devise a methodology sufficiently #robust to #counter the argument that any emerging differences may be a #corollary of the differential skills of the particular workers who happen to #occupy the posts #in the different teams .
+ALN 99404	The assertion that ‘ good ’ workers are good and ‘ bad’workers bad irrespective of location ( and that #that is all that needs to be said ) must be #displaced or #qualified by a #demonstration that organizational #form #exerts an influence .
+ALN 99405	THE PRELIMINARY STUDY
+ALN 99406	The methodological challenges #sketched above are considerable , and seemed best #tackled #in a #stage - by - #stage manner .
+ALN 99407	Research began with the aim of seeking to establish that any effects of organizational differences are researchable .
+ALN 99408	A preliminary study has compared social work #response and service #delivery #across organizational types , #with the objective of #seeing #in what #ways #these differed , and whether any differences could plausibly be #related #to the factors ( for example of knowledge and skill ) said to distinguish #in #broad terms the organizational types .
+ALN 99409	The #field was delimited #in a number of #ways :
+ALN 99411	Representatives of four obviously contrasting types of team organization were selected , comprising generic and specialist teams , a team of individual client group specialists , and a team espousing a Community Social Work ( CSW ) #approach .
+ALN 99412	While the latter #belongs #to a separate organizational #dimension , it seemed of interest to test the feasibility of #addressing the issues that the ‘ community ’ #approach might #raise .
+ALN 99414	The #focus was #on a single client group ( the elderly ) .
+ALN 99415	#This choice #had advantages of feasibility , but was not #made without the #reservation that advantages for the generic #approach might #lie #in its ability to transcend client group stereotypes ; #this seemed less of a problem , however , #with elderly people , who #fall rather less ambiguously #into a self - contained category of client than some others .
+ALN 99417	#Full control of potentially #contaminating factors was not sought , and is probably not feasible .
+ALN 99418	Such factors include #levels of provision , ‘ secondary ’ organizational factors ( that is , #at #levels other than #that of the team ) , worker idiosyncrasies , and demographic characteristics of areas #served .
+ALN 99419	Ideally , the teams studied might have been #serving similar populations #with similar #levels of staffing and other resources , and the samples might have been carefully standardized .
+ALN 99420	The study , however , was dependent #on teams volunteering to #take #part , and even without #this it is difficult to imagine a #design which would match teams #on all #dimensions .
+ALN 99421	A #degree of standardization was , however , attempted #with the #sample , which was to consist of #those cases ( whether new referrals or existing cases ) for whom an assessment was #made for one or other of three specific types of service provision : residential care ( ‘ #Part 4 ’ in Scotland ) , respite or short stay care , and day care .
+ALN 99422	As might be expected #this resulted #in the reduction rather than the elimination of disparities #between the samples , some of the problems being discussed below .
+ALN 99423	The #target was to obtain a sample of thirty cases , of whatever case category , in each team area .
+ALN 99424	The sample was to be obtained retrospectively : teams were asked to identify relevant cases dating #from at least twelve months before the data collection #point .
+ALN 99425	Information was #extracted #from case files .
+ALN 99426	The data comprised some thirty variables , including basic personal data , referral and allocation , assessment , service provision , details of continuing involvement and re - referral .
+ALN 99427	The use of files imposed limitations #on the types of valid and reliable data that could be obtained ; data analysed represented a compromise #between #these limitations and what were thought to be useful indicators of the manner or style of assessment and service #delivery .
+ALN 99428	In addition there were a #small number of semi - structured interviews in each area with social workers .
+ALN 99429	THE TEAMS
+ALN 99430	The four teams were :
+ALN 99431	a )
+ALN 99432	a team specializing #in work with elderly clients ( Team A ) ;
+ALN 99433	b )
+ALN 99434	a generic team with individual workers #having generic caseloads ( Team B ) ;
+ALN 99435	c )
+ALN 99436	a generic team #in which individual workers specialize #in client groups ( Team C ) ;
+ALN 99437	d )
+ALN 99438	a generic team #adopting a CSW #approach ( Team D ) .
+ALN 99439	Team A operates in a city , #covering a geographically - defined area within it of approximately 95,000 population .
+ALN 99440	The team specializes #in work with the elderly , and consisted #at the time of five full - time equivalent ( FTE ) qualified social workers .
+ALN 99441	Their specialized working is recognized as creating staff development problems and it is agreed that they may #devote #up #to fifteen per cent of their time to work with other client groups ; in addition they #take #part #in a duty rota , and thus #handle the #full #range of initial enquiries .
+ALN 99442	Team B is based in a small town and #covers a mixed area of small towns and villages , #serving a population of #about 14,000 .
+ALN 99443	The team consisted of four FTE social workers and a 1/3 FTE social work assistant ( #with a part - time social work assistant post #unfilled ) .
+ALN 99444	Each member works #with the #full #range of referrals .
+ALN 99445	Team C operates in a medium - sized town with some outlying rural areas and #serves a population of #about 13,000 .
+ALN 99446	The individual worker who specializes #in the elderly is a social work assistant , who #carries a caseload of approximately sixty .
+ALN 99447	Team D operates in a rural and mountainous area , and #serves a #scattered population of approximately 12,000 , which includes numbers of ‘ incomers ’ and #has in addition a #floating holiday population .
+ALN 99448	The team consists of two full - time social workers and one half - time , in addition #to a team - leader who #carries a caseload .
+ALN 99449	FINDINGS
+ALN 99450	Data collected from files #yielded a set of variables for three of the four teams #on referrals , initial #response ( allocation and assessment ) , services provided , and subsequent developments .
+ALN 99451	#In Team D , however , the data collection strategy failed to #produce a comparable sample , for various reasons concerned in part #with the #way the CSW #approach #operated ( see below ) .
+ALN 99452	Main comparisons are therefore #based #on three teams only .
+ALN 99453	It was an entirely #open question whether #these data would #show any relevant differences of procedure and practice at all .
+ALN 99454	#In what #follows the similarities and differences are briefly summarized .
+ALN 99455	#In some instances two of the teams are similar , while the third differs ; #in others , all three differ .
+ALN 99456	Teams A , B , and C are similar #in that for a client to #obtain a service , the case is allocated after referral #to a social worker who assesses the circumstances , #makes a recommendation , and if applicable #follows it #up .
+ALN 99457	The procedure #in Team D is less easy to categorize ; #in new referrals it is much the same , but #these may constitute a somewhat #lower #proportion of the team 's work .
+ALN 99458	The #structure #appears therefore to be rather more #fluid .
+ALN 99459	The assessment commonly #takes as its main #form one or more visits to the client and clarificatory discussion with them of the reasons why a service is being #sought and of the implications of providing it .
+ALN 99460	#Behind #this basic #structure , teams were #found to differ #on a number of variables .
+ALN 99461	Unless otherwise stated , differences reported #between teams were statistically significant #at the 0.05 #level , sometimes with variables #collapsed or dichotomized in view of small #cell sizes .
+ALN 99462	REFERRAL #SOURCE ( see Table 1 )
+ALN 99463	The specialist team , whose individual members maintain #links #with particular health centres , #had more health centre referrals than the others , while the individual specialist more self and family referrals .
+ALN 99464	SERVICES REQUESTED
+ALN 99465	A rather #higher #proportion ( n.s . ) of referrals #to the specialist team #came #in the #form of requests for general assessment rather than for specific services .
+ALN 99466	When referral #sources were examined #in the #light of #this , it was #found that medical and family referrers were each #making different kinds of demand #in the three areas .
+ALN 99467	#In two of the teams the majority of requests for residential care #came #from health centre staff , while #in the third ( the individual specialist ) self and family referrals accounted for most of #these .
+ALN 99468	RECOMMENDATIONS ( see Table 2 )
+ALN 99469	The specialist and the generic teams #made substantially more recommendations of ‘ no further action ’ #following assessment than the individual specialist , who always recommended a service .
+ALN 99470	The specialist team #displayed a #slight tendency ( n.s . ) to recommend a #wider #range of alternative services .
+ALN 99471	NUMBER OF VISITS
+ALN 99472	During assessment , it was more frequently the case ( #approaching significance ) for the specialist team than for the other teams that more than one visit was #made to the client .
+ALN 99473	RESPONSE TIMES
+ALN 99474	Immediate #response ( allocation and visiting ) can be distinguished #from ultimate #response ( recommending and activating service - provision ) .
+ALN 99475	#In the early #stages the generic team #responded more quickly , but the specialist team completed the assessment process sooner .
+ALN 99476	SERVICE RECEIVED ( Table 3 )
+ALN 99477	If we consider the three services which #formed the criteria for inclusion #in the study , one or other of #those was #received by 35 per cent of cases #in the specialist team , by 38 per cent #in the generic team , and by 87 per cent #in the team with an individual specialist .
+ALN 99478	If clients #placed #on waiting lists are added , the figures are 42 per cent , 48 per cent , and 100 per cent respectively .
+ALN 99479	The differences #here #between the first two teams are insignificant , but the difference #between them and the third team is #striking .
+ALN 99480	Though because of #small expected #frequencies it is difficult to #demonstrate significance , the specialist team seemed more likely to provide an alternative service than the generic team .
+ALN 99481	Thus , of the clients who did not receive the residential , #short stay , or day care , other services were either provided or #arranged for 20.6 per cent of cases #in the specialist team and for 6.9 per cent of cases #in the generic team .
+ALN 99482	#In the remainder of the cases #in the first two teams , either no service was offered , service was declined by the client , or the assessment was preempted #in some #way ( for example , by the client #entering hospital ) .
+ALN 99483	The #closest correspondence #between services requested and #those received ( Table 4 ) was #found #in the individual specialist worker 's cases .
+ALN 99484	Differences #here clearly warrant further #investigation , and when #revealed #to the participating teams #provoked considerable discussion .
+ALN 99485	CASE CLOSURE
+ALN 99486	The specialist team #closed a #larger proportion of cases #within six months , and the specialist worker #kept #open a strikingly #larger number of cases #beyond nine months .
+ALN 99487	The generic team #occupied an intermediate #position .
+ALN 99488	POST - ASSESSMENT ACTIVITIES
+ALN 99489	#Cell sizes became too #low #here to establish significance , but the following trends were apparent #in the data .
+ALN 99490	In terms of visiting and recorded #contacts #with other agencies , the specialist team #displayed a #clearer #pattern of activities than the other teams : while cases remained #open they visited more , and did not ‘ monitor only ’ ; if #closed and re - #opened , cases #came #back for re - assessment #in fewer numbers ; and #in both categories the rate of #contacts #with other agencies was #higher .
+ALN 99491	While cases remained #open , re - assessment for one of the same group of services #took #place #to a more #marked extent #in the generic team and by the individual specialist than #in the specialist team .
+ALN 99492	Both the generic and specialist teams #received #higher rates of re - referral ( that is , of the sample clients ) than the individual specialist , who , however , #kept cases #open #for #longer periods .
+ALN 99493	THE COMMUNITY SOCIAL WORK TEAM
+ALN 99494	#In Team D it proved impossible to identify sufficient cases .
+ALN 99495	#This was partly due to certain features of record - keeping practice , but more particularly there were simply insufficient relevant referrals #over a reasonable period .
+ALN 99496	#At the relevant time there existed only one day - care place and #severe restrictions #on access #to Part 4 accommodation .
+ALN 99497	‘ #Softer ’ data were , however , #gathered : interviews were #held #on a #small number of cases , and a single case - example was further explored #through the use of a vignette #based #on an actual case from another area , a technique which may be further developed #in future work .
+ALN 99498	Given the likelihood that #in a CSW team there is both a tendency to #keep files #open to #reflect the ‘ streetwork ’ and informal contact that is #maintained , and a probability that intervention will occur prior to demands for day or residential care , the strategy #adopted may have identified only a minority of the cases actually #dealt #with .
+ALN 99499	#This , as might be expected , is an extreme example of an issue that #applies also in other areas : differing and sometimes intangible conventions #on what constitutes a #live , #closed , or #dormant ‘ case ’ .
+ALN 99500	‘ Caseness ’ may be #blurred #in a #setting where relationships #with the community are #close .
+ALN 99501	Examples were #given of regular meetings or occasions which enabled workers to identify and #keep #track of people #in the community , regardless of whether they #had the status of an #active case .
+ALN 99502	#These included weekly meetings ( formal and semi - formal ) with Health Centre staff , some of whom #wore more than one #hat and could therefore speak #from different #perspectives ; regular visits to lunch clubs , where lunch was shared with attenders ; visits to old people 's homes .
+ALN 99503	#These activities could well #take #place in other areas , but the impression #given #in Team D was that #this kind of informal or semi - formal engagement #with vulnerable sections of the community , recorded only #patchily , constituted a #prominent #part of the social work #approach .
+ALN 99504	The difference is best #illustrated by a case example .
+ALN 99505	A referral was received concerning an elderly woman who knew that residential care would be necessary #at a future #point ; she was assessed #in the normal #way , and #placed #on the waiting list .
+ALN 99506	The case remained technically #open for some time , #with sporadic review rather than monitoring ( because , it was said , anything requiring #active intervention would have been readily #made known ) ; finally events #made residential care inevitable , and were immediately notified by the GP .
+ALN 99507	The placement was duly #made , several years after the first formal contact .
+ALN 99508	The case remained #open after placement , and would be subject #to six - weekly review within the home .
+ALN 99509	As the team leader was #chair of the allocation and review committee , he was well aware of the current situation , though entries would not always be #made #in the social work file .
+ALN 99510	What we #appear to #have #here is a system #where the structure of intervention , as #displayed #in the file data in other areas , #bears only an indirect relationship #to what actually happened #in Team D. ( The specialist worker #in Team C may have been operating #in #ways that #in some respects are not wholly dissimilar , but the #approach of the specialist team would seem radically different ) .
+ALN 99511	A #higher proportion of the CSW team 's notional ‘ elderly ’ time was #devoted #to work with people not yet clients , or ‘ not exactly’clients ( whether they were regarded as #open cases or not seemed to be a #matter of chance ) .
+ALN 99512	#This aspect of the work is difficult #for a case - by - case research strategy to identify firmly .
+ALN 99513	It #relied #on an effective #flow of information #between agencies ( see below ) and #from the community and was undertaken #with a #view #to avoiding crisis intervention and undue reliance #on statutory services .
+ALN 99514	Social #networks , for example , might be fostered for #those #at risk of becoming isolated .
+ALN 99515	#These activities might be characterized as preventive rather than casefinding .
+ALN 99516	The relationship #between Team D and other agencies ( or other parts of the SWD ) is complicated ( or perhaps , for the participants , simplified ) by the inter - relatedness of the system components in the area .
+ALN 99517	Thus , for example(as mentioned above ) , the team - leader also chairs the group which allocates #places in homes as they become vacant , and is #heavily involved #in sheltered housing and housing association allocations : #at one #point the district nurse ‘ tripled ’ as health visitor and midwife .
+ALN 99518	One evident result of #this , whatever others there might be , appears to be that much information about clients and potential clients is shared informally , so that , for example , information could #come ‘ #straight #from the surgery ’ in advance of a more formal notification of the episode which #triggered the eventual admission of the case #outlined above .
+ALN 99519	DISCUSSION
+ALN 99520	#From #these summarized findings it is possible to derive tentative #profiles of the activities of the first three teams .
+ALN 99521	#These #profiles #obtain their distinctive features only #in comparisons #between teams , since no norms , whether of ‘ good ’ or of standard practices , were #sought .
+ALN 99522	The specialist team #receives more referrals #from medical #sources and more #in the #form of requests for general assessment , though #these are not synonymous .
+ALN 99523	They #carry #out rather more visits per case during assessment .
+ALN 99524	Relatively #high use is #made of the NFA recommendation , and a #wider #range of services are both recommended and provided .
+ALN 99525	A #lower proportion of their clients #receive one of the three main services for which they were referred .
+ALN 99526	The team processes cases more quickly and #closes them earlier ; of #those that remain #open , relatively few are reassessed , but cases tend not to be #kept #open for ‘ monitoring only ’ .
+ALN 99527	The generic team is often #in a middle #position #in the items recorded .
+ALN 99528	It #has no particular #pattern #in its referral #sources , and assessment visits are #at an ‘ average ’ #level .
+ALN 99529	Its initial #response is relatively prompt .
+ALN 99530	It also recommends NFA quite often and recommends and provides rather fewer alternative services .
+ALN 99531	The provision of the main services is #at a #level similar #to the specialist team 's .
+ALN 99532	There is a #higher incidence of clients refusing services .
+ALN 99533	While cases remain #open , more clients are re - assessed , and #after #closure more are re - referred .
+ALN 99534	The individual specialist receives notably more self and family referrals , often , #in what may be historically special circumstances , #for day care .
+ALN 99535	The #response times are ‘ average ’ and somewhat fewer visits are #made during assessment .
+ALN 99536	No use is #made of the NFA recommendation , and , uniquely , all clients #receive one or other of the main services , almost invariably #that which was requested .
+ALN 99537	After completion of assessment , cases are #kept #open , though #with fewer re - assessment episodes , and of #those which are #closed there are relatively few re - referrals .
+ALN 99538	There was no clear - cut expectation beforehand about how successful the research strategy would be #in identifying differences #in procedures and outcome #between the teams studied .
+ALN 99539	Some differences have been noted which do not #appear to be trivial .
+ALN 99540	Of #those which are more than mundane , or artefacts of administrative or file - keeping practices , some can be accounted #for in terms of plausible expectations of the organizational #models , others only indirectly so , and yet others more difficult to explain .
+ALN 99541	It #remains to discuss how they might be characterized , #interpreted , and used as a #basis for further work .
+ALN 99542	If we may greatly oversimplify , it could be said that discussions of team organization #in relation to client groups tend to be #cast #in the #form of a set of claims #made for the advantages of specialization .
+ALN 99543	Insofar as advantages are claimed for genericism , they are #based #on #wider issues than #those #arising #from the specific client group .
+ALN 99544	( It might be noted #in passing that there were scarcely any examples known #to the social workers #from any team of elderly people being referred #from households where other family members were also clients . )
+ALN 99545	As was noted earlier , proponents of specialization claim , among other things , that it permits a #greater development of knowledge and/or skills , and that it facilitates liaison with other agencies #through increased awareness of how other disciplines #work .
