@@ -1,0 +1,1 @@
+Child-directed Speech is Lexically Less Creative than other Types of Speech Genre: Impact on the Learner by Liudmyla Feurstein, Iulia M. Comsa, Reinhard Furrer3, Kim Gfeller, Paul Widmer, Srini Narayanan, and Sabine Stoll. Supplementary Materials (datasets, annotations, R and Python scripts).
